@@ -18,13 +18,13 @@ export const twitter: OGSchemaType = {
     {
       type: 'input',
       label: '站点账户',
-      placeholder: '该网站的推特账户的名称 (例如: @leellunoolscom)...',
+      placeholder: '该网站的推特账户的名称 (例如: @kktoolkitcom)...',
       key: 'twitter:site',
     },
     {
       type: 'input',
       label: '创作者账户',
-      placeholder: '创作者的推特账号名称 (例如: @leellunools)...',
+      placeholder: '创作者的推特账号名称 (例如: @kktoolkit)...',
       key: 'twitter:creator',
     },
   ],

@@ -5,6 +5,6 @@ test.describe('工具 - Mac地址生成器', () => {
     await page.goto('/mac-address-generator');
   });
   test('Has correct title', async ({ page }) => {
-    await expect(page).toHaveTitle('Mac地址生成器 - leellun工具箱');
+    await expect(page).toHaveTitle('Mac地址生成器 - KKTool工具箱');
   });
 });

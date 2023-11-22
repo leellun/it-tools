@@ -37,7 +37,7 @@ const { tracker } = useTracker();
     <h2>{{ $t('about.h2') }}</h2>
     <p text-justify>
       {{ $t('about.h2p1') }}
-      <c-link href="https://github.com/leellun/blob/develop/src/leellunools/package.json" rel="noopener" target="_blank">
+      <c-link href="https://github.com/leellun/blob/develop/src/kktoolkit/package.json" rel="noopener" target="_blank">
         package.json
       </c-link>
       {{ $t('about.h2p2') }}

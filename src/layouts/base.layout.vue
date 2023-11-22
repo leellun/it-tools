@@ -125,7 +125,7 @@ const tools = computed<ToolCategory[]>(() => [
           <NavbarButtons v-if="!styleStore.isSmallScreen" />
         </div>
 
-        <c-tooltip position="bottom" :tooltip="$t('home.supportleellunools')">
+        <c-tooltip position="bottom" :tooltip="$t('home.supportkktoolkit')">
           <c-button
             round
             href="https://www.mubanma.com"

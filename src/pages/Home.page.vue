@@ -8,7 +8,7 @@ import { config } from '@/config';
 
 const toolStore = useToolStore();
 
-useHead({ title: 'leellun工具箱-为开发人员提供方便的在线工具' });
+useHead({ title: 'KKTool工具箱-为开发人员提供方便的在线工具' });
 const { t } = useI18n();
 </script>
 

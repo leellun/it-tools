@@ -3,33 +3,33 @@ home:
     newestTools: Newest tools
     favoriteTools: 'Your favorite tools'
     allTools: 'All the tools'
-  title: "leellunools"
+  title: "kktoolkit"
   subtitle: 'Handy tools for developers'
   blog: 'Blog:'
   toggleMenu: 'Toggle menu'
   home: Home
   uiLib: 'UI Lib'
   buyMeACoffee: 'Buy me a coffee'
-  supportleellunools: 'Support leellunools'
+  supportkktoolkit: 'Support kktoolkit'
   follow:
-    title: 'You like leellunools?'
+    title: 'You like kktoolkit?'
     p1: 'Give us a star on'
-    githubRepository: 'leellunools GitHub repository'
+    githubRepository: 'kktoolkit GitHub repository'
     p2: 'or follow us on'
-    twitterAccount: 'leellunools Twitter account'
+    twitterAccount: 'kktoolkit Twitter account'
     thankYou: 'Thank you !'
   nav:
     github: 'GitHub repository'
-    githubRepository: 'leellunools GitHub repository'
+    githubRepository: 'kktoolkit GitHub repository'
     twitter: 'Twitter account'
-    twitterAccount: 'leellunools Twitter account'
-    about: 'About  leellunools'
+    twitterAccount: 'kktoolkit Twitter account'
+    about: 'About  kktoolkit'
     aboutLabel: 'About'
     darkMode: 'Dark mode'
     lightMode: 'Light mode'
     mode: 'Toggle dark/light mode'
 about:
-  h1: 'About leellunools'
+  h1: 'About kktoolkit'
   h1p1: 'Reference open source projects'
   h1p2: 'build, thank you for the power of open source.'
   h1p3: 'This is a great website, created by'

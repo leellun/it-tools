@@ -9,7 +9,7 @@ const errorCorrectionLevel = ref<QRCodeErrorCorrectionLevel>('medium');
 
 const errorCorrectionLevels = ['低', '中等', '四分位数', '高'];
 
-const text = ref('https://leellunools.com');
+const text = ref('https://kktoolkit.com');
 const { qrcode } = useQRCode({
   text,
   color: {
